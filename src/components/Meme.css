@@ -36,6 +36,8 @@
 
 .meme {
   position: relative;
+  display: flex;
+  justify-content: center;
 }
 
 .meme--image {
